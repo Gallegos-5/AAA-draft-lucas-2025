@@ -43,7 +43,7 @@ The American Ambition & Accountability Act (AAA) is a federal reform proposal to
 
 ## Current Draft
 
-- [`AAA-Draft.pdf`](./AAA-draft-lucas-2025)
+- [`AAA-Draft.pdf`](./American%20Ambition%20Act.pdf)
 
 ---
 
