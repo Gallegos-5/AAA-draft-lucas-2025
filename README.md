@@ -6,7 +6,7 @@
 
 ## Overview
 
-The **American Ambition & Accountability Act (AAA)** is a federal reform proposal to establish a rigorous, transparent “sandbox” process for testing bold ideas across U.S. government agencies. It enables safe-to-fail pilots, rapid experimentation, live public oversight, and robust safeguards—while ensuring accountability, equity, and public trust.
+The American Ambition & Accountability Act (AAA) is a federal reform proposal to establish a rigorous, transparent “sandbox” process for testing bold ideas across U.S. government agencies. It enables safe-to-fail pilots, rapid experimentation, live public oversight, and robust safeguards—while ensuring accountability, equity, and public trust.
 
 ---
 
@@ -41,10 +41,9 @@ The **American Ambition & Accountability Act (AAA)** is a federal reform proposa
 
 ---
 
-## Full Statutory Text
+## Current Draft
 
-- [`AAA-Final-Draft.pdf`](./AAA-Final-Draft.pdf)  
-- [`AAA-Final-Draft.md`](./AAA-Final-Draft.md) *(optional, if included)*
+- [`AAA-Draft.pdf`](./AAA-draft-lucas-2025)
 
 ---
 
@@ -70,3 +69,4 @@ See the [LICENSE](./LICENSE) file for details.
 [CC BY 4.0 summary](https://creativecommons.org/licenses/by/4.0/)
 
 ---
+
