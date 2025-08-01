@@ -3,7 +3,13 @@
 **A blueprint for safe, transparent, and accelerated federal innovation.**
 
 ---
-
+> **Why it matters:**  
+> • **Moonshot pilots launch in weeks, not years** (30-day OIRA fast lane)  
+> • **Safe-to-fail sandboxes** → bold ideas can’t bankrupt agencies  
+> • **Independent red-team board** keeps innovators honest and taxpayers safe  
+> • **Public dashboards & automatic sunsets**—we learn fast and cut losses faster  
+> • **Career incentives for risk-taking civil servants** instead of punishing them
+---
 ## Overview
 
 The American Ambition & Accountability Act (AAA) is a federal reform proposal to establish a rigorous, transparent “sandbox” process for testing bold ideas across U.S. government agencies. It enables safe-to-fail pilots, rapid experimentation, live public oversight, and robust safeguards—while ensuring accountability, equity, and public trust.
